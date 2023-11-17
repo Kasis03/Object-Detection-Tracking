@@ -15,15 +15,4 @@ This study and algorithm can be further applied to make a robust security system
 
 - Python [Numpy, Matplotlib, OpenCV, ImageAI,Streamlit( for Webapp)]
 
-<h3><b>Installation Steps : </b></h3>
-- clone the repo from Gitlab
-
-
-$ git clone -b (branch name to pull from) (clone with HTTPS link)
-
-$ cd (project directory)
-
-- run the above code 
-
-$ streamlit run webapp.py 
 
